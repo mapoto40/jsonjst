@@ -1,0 +1,4306 @@
+[
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4005.JPG",
+        "latitude": 47.1976961,
+        "longitude": 5.38432789997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T08:59:25.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4008.JPG",
+        "latitude": 47.197904,
+        "longitude": 5.38437199997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T08:59:31.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4009.JPG",
+        "latitude": 47.197969,
+        "longitude": 5.384386,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T08:59:33.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4011.JPG",
+        "latitude": 47.1981004,
+        "longitude": 5.38441689997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T08:59:37.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4018.JPG",
+        "latitude": 47.1983535,
+        "longitude": 5.38449639997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T08:59:51.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4019.JPG",
+        "latitude": 47.1983806,
+        "longitude": 5.38450839997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T08:59:53.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4020.JPG",
+        "latitude": 47.1984076999722,
+        "longitude": 5.3845264,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T08:59:55.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4021.JPG",
+        "latitude": 47.1984332999722,
+        "longitude": 5.384546,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T08:59:57.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4022.JPG",
+        "latitude": 47.1984595999722,
+        "longitude": 5.38457149997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T08:59:59.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4023.JPG",
+        "latitude": 47.1984886999722,
+        "longitude": 5.3845923,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:00:01.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4024.JPG",
+        "latitude": 47.1985163,
+        "longitude": 5.3846087,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:00:03.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4025.JPG",
+        "latitude": 47.1985466,
+        "longitude": 5.38462749997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:00:05.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4026.JPG",
+        "latitude": 47.1985741,
+        "longitude": 5.38464679997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:00:07.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4027.JPG",
+        "latitude": 47.1986028,
+        "longitude": 5.38466929997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:00:09.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4030.JPG",
+        "latitude": 47.1986971999722,
+        "longitude": 5.38472129997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:00:15.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4031.JPG",
+        "latitude": 47.1987291,
+        "longitude": 5.3847357,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:00:17.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4032.JPG",
+        "latitude": 47.1987609,
+        "longitude": 5.38475329997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:00:19.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4033.JPG",
+        "latitude": 47.1987926999722,
+        "longitude": 5.38477389997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:00:21.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4034.JPG",
+        "latitude": 47.1988234,
+        "longitude": 5.3847956,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:00:23.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4035.JPG",
+        "latitude": 47.1988546999722,
+        "longitude": 5.3848184,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:00:25.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4036.JPG",
+        "latitude": 47.1988867999722,
+        "longitude": 5.38484099997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:00:27.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4037.JPG",
+        "latitude": 47.1989210999722,
+        "longitude": 5.38486639997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:00:29.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4039.JPG",
+        "latitude": 47.1989895999722,
+        "longitude": 5.384928,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:00:33.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4040.JPG",
+        "latitude": 47.1990243999722,
+        "longitude": 5.3849622,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:00:35.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4041.JPG",
+        "latitude": 47.1990581,
+        "longitude": 5.3849948,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:00:37.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4042.JPG",
+        "latitude": 47.1990928999722,
+        "longitude": 5.3850268,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:00:39.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4043.JPG",
+        "latitude": 47.1991255,
+        "longitude": 5.3850607,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:00:41.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4044.JPG",
+        "latitude": 47.1991592999722,
+        "longitude": 5.38509779997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:00:43.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4045.JPG",
+        "latitude": 47.199196,
+        "longitude": 5.3851345,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:00:45.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4046.JPG",
+        "latitude": 47.1992345999722,
+        "longitude": 5.38517189997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:00:47.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4047.JPG",
+        "latitude": 47.1992740999722,
+        "longitude": 5.3852111,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:00:49.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4050.JPG",
+        "latitude": 47.1994086999722,
+        "longitude": 5.38533949997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:00:55.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4051.JPG",
+        "latitude": 47.1994569,
+        "longitude": 5.38538229997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:00:57.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4052.JPG",
+        "latitude": 47.1995071999722,
+        "longitude": 5.38542439997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:00:59.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4053.JPG",
+        "latitude": 47.1995626,
+        "longitude": 5.38546489997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:01:01.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4054.JPG",
+        "latitude": 47.1996165999722,
+        "longitude": 5.38550479997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:01:03.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4055.JPG",
+        "latitude": 47.1996701999722,
+        "longitude": 5.38554479997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:01:05.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4056.JPG",
+        "latitude": 47.1997245,
+        "longitude": 5.3855839,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:01:07.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4057.JPG",
+        "latitude": 47.199781,
+        "longitude": 5.3856235,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:01:09.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4068.JPG",
+        "latitude": 47.2004495999722,
+        "longitude": 5.38593879997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:01:31.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4069.JPG",
+        "latitude": 47.2005155,
+        "longitude": 5.3859478,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:01:33.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4078.JPG",
+        "latitude": 47.2011198,
+        "longitude": 5.3859303,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:01:51.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4079.JPG",
+        "latitude": 47.2011859999722,
+        "longitude": 5.3859176,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:01:53.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4080.JPG",
+        "latitude": 47.2012503999722,
+        "longitude": 5.38590639997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:01:55.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4081.JPG",
+        "latitude": 47.2013163,
+        "longitude": 5.38589379997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:01:57.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4082.JPG",
+        "latitude": 47.2013804999722,
+        "longitude": 5.3858838,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:01:59.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4083.JPG",
+        "latitude": 47.2014454999722,
+        "longitude": 5.3858696,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:02:01.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4084.JPG",
+        "latitude": 47.2015104999722,
+        "longitude": 5.3858512,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:02:03.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4085.JPG",
+        "latitude": 47.201577,
+        "longitude": 5.3858281,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:02:05.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4086.JPG",
+        "latitude": 47.2016424999722,
+        "longitude": 5.3858015,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:02:07.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4087.JPG",
+        "latitude": 47.2017091,
+        "longitude": 5.3857666,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:02:09.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4090.JPG",
+        "latitude": 47.2018999,
+        "longitude": 5.38563659997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:02:15.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4091.JPG",
+        "latitude": 47.2019645,
+        "longitude": 5.38558779997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:02:17.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4092.JPG",
+        "latitude": 47.2020284999722,
+        "longitude": 5.38554349997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:02:19.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4093.JPG",
+        "latitude": 47.2020943999722,
+        "longitude": 5.38549849997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:02:21.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4094.JPG",
+        "latitude": 47.2021592999722,
+        "longitude": 5.38545449997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:02:23.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4095.JPG",
+        "latitude": 47.2022268999722,
+        "longitude": 5.385411,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:02:25.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4096.JPG",
+        "latitude": 47.2022937999722,
+        "longitude": 5.3853685,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:02:27.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4097.JPG",
+        "latitude": 47.2023617999722,
+        "longitude": 5.3853248,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:02:29.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4108.JPG",
+        "latitude": 47.2032086999722,
+        "longitude": 5.3846821,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:02:51.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4109.JPG",
+        "latitude": 47.2032809999722,
+        "longitude": 5.3846242,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:02:53.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4118.JPG",
+        "latitude": 47.2039049999722,
+        "longitude": 5.38401219997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:03:11.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4119.JPG",
+        "latitude": 47.2039776,
+        "longitude": 5.3839392,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:03:13.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4120.JPG",
+        "latitude": 47.2040543999722,
+        "longitude": 5.3838676,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:03:15.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4121.JPG",
+        "latitude": 47.2041321,
+        "longitude": 5.38380149997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:03:17.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4122.JPG",
+        "latitude": 47.20421,
+        "longitude": 5.3837346,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:03:19.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4123.JPG",
+        "latitude": 47.2042892999722,
+        "longitude": 5.383668,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:03:21.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4124.JPG",
+        "latitude": 47.2043681,
+        "longitude": 5.3836062,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:03:23.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4125.JPG",
+        "latitude": 47.2044478999722,
+        "longitude": 5.38355259997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:03:25.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4126.JPG",
+        "latitude": 47.2045312999722,
+        "longitude": 5.38350859997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:03:27.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4127.JPG",
+        "latitude": 47.2046198999722,
+        "longitude": 5.3834771,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:03:29.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4130.JPG",
+        "latitude": 47.2048854,
+        "longitude": 5.383453,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:03:35.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4131.JPG",
+        "latitude": 47.2049736999722,
+        "longitude": 5.3834577,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:03:37.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4132.JPG",
+        "latitude": 47.2050649999722,
+        "longitude": 5.38346139997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:03:39.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4133.JPG",
+        "latitude": 47.2051536999722,
+        "longitude": 5.3834622,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:03:41.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4134.JPG",
+        "latitude": 47.2052464,
+        "longitude": 5.38346229997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:03:43.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4135.JPG",
+        "latitude": 47.2053366999722,
+        "longitude": 5.3834602,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:03:45.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4136.JPG",
+        "latitude": 47.2054266999722,
+        "longitude": 5.3834542,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:03:47.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4137.JPG",
+        "latitude": 47.2055162999722,
+        "longitude": 5.3834476,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:03:49.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4140.JPG",
+        "latitude": 47.2057910999722,
+        "longitude": 5.38342969997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:03:55.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4141.JPG",
+        "latitude": 47.2058813,
+        "longitude": 5.383422,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:03:57.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4142.JPG",
+        "latitude": 47.2059726999722,
+        "longitude": 5.383413,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:03:59.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4143.JPG",
+        "latitude": 47.2060648,
+        "longitude": 5.3833957,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:04:01.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4144.JPG",
+        "latitude": 47.2061540999722,
+        "longitude": 5.3833688,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:04:03.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4145.JPG",
+        "latitude": 47.2062410999722,
+        "longitude": 5.3833352,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:04:05.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4146.JPG",
+        "latitude": 47.2063304999722,
+        "longitude": 5.3832987,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:04:07.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4147.JPG",
+        "latitude": 47.2064176,
+        "longitude": 5.38326529997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:04:09.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4150.JPG",
+        "latitude": 47.2066859999722,
+        "longitude": 5.38320299997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:04:15.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4151.JPG",
+        "latitude": 47.2067783,
+        "longitude": 5.38318459997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:04:17.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4152.JPG",
+        "latitude": 47.2068676,
+        "longitude": 5.3831676,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:04:19.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4153.JPG",
+        "latitude": 47.2069565999722,
+        "longitude": 5.38315159997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:04:21.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4154.JPG",
+        "latitude": 47.2070452,
+        "longitude": 5.3831388,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:04:23.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4155.JPG",
+        "latitude": 47.2071354999722,
+        "longitude": 5.3831264,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:04:25.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4156.JPG",
+        "latitude": 47.2072254999722,
+        "longitude": 5.3831175,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:04:27.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4157.JPG",
+        "latitude": 47.2073104999722,
+        "longitude": 5.383111,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:04:29.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4168.JPG",
+        "latitude": 47.2082930999722,
+        "longitude": 5.3830849,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:04:51.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4169.JPG",
+        "latitude": 47.2083792,
+        "longitude": 5.38306539997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:04:53.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4178.JPG",
+        "latitude": 47.2091635,
+        "longitude": 5.3828237,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:05:11.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4179.JPG",
+        "latitude": 47.2092529999722,
+        "longitude": 5.3828012,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:05:13.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4180.JPG",
+        "latitude": 47.2093419999722,
+        "longitude": 5.38277719997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:05:15.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4181.JPG",
+        "latitude": 47.2094288999722,
+        "longitude": 5.3827536,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:05:17.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4182.JPG",
+        "latitude": 47.2095162,
+        "longitude": 5.3827287,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:05:19.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4183.JPG",
+        "latitude": 47.209603,
+        "longitude": 5.38269899997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:05:21.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4184.JPG",
+        "latitude": 47.2096921999722,
+        "longitude": 5.38266449997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:05:23.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4185.JPG",
+        "latitude": 47.2097772999722,
+        "longitude": 5.38262719997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:05:25.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4186.JPG",
+        "latitude": 47.2098647999722,
+        "longitude": 5.3825852,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:05:27.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4187.JPG",
+        "latitude": 47.2099501,
+        "longitude": 5.38254189997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:05:29.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4190.JPG",
+        "latitude": 47.2102025,
+        "longitude": 5.38240129997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:05:35.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4191.JPG",
+        "latitude": 47.2102837999722,
+        "longitude": 5.3823549,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:05:37.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4192.JPG",
+        "latitude": 47.2103649,
+        "longitude": 5.3823081,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:05:39.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4193.JPG",
+        "latitude": 47.2104495999722,
+        "longitude": 5.3822633,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:05:41.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4194.JPG",
+        "latitude": 47.2105341999722,
+        "longitude": 5.3822174,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:05:43.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4195.JPG",
+        "latitude": 47.2106166,
+        "longitude": 5.38216529997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:05:45.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4196.JPG",
+        "latitude": 47.2106965999722,
+        "longitude": 5.38211719997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:05:47.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4197.JPG",
+        "latitude": 47.2107808,
+        "longitude": 5.3820772,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:05:49.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4208.JPG",
+        "latitude": 47.2117490999722,
+        "longitude": 5.38202919997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:06:11.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4209.JPG",
+        "latitude": 47.2118263999722,
+        "longitude": 5.3819761,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:06:13.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4218.JPG",
+        "latitude": 47.2125343,
+        "longitude": 5.38143969997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:06:31.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4219.JPG",
+        "latitude": 47.2126097,
+        "longitude": 5.3813782,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:06:33.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4220.JPG",
+        "latitude": 47.2126895,
+        "longitude": 5.381317,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:06:35.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4221.JPG",
+        "latitude": 47.2127687999722,
+        "longitude": 5.38125739997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:06:37.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4222.JPG",
+        "latitude": 47.2128458999722,
+        "longitude": 5.38118799997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:06:39.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4223.JPG",
+        "latitude": 47.2129189999722,
+        "longitude": 5.38110239997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:06:41.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4224.JPG",
+        "latitude": 47.2129842,
+        "longitude": 5.3810079,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:06:43.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4225.JPG",
+        "latitude": 47.2130475,
+        "longitude": 5.3809018,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:06:45.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4226.JPG",
+        "latitude": 47.2131048999722,
+        "longitude": 5.38079519997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:06:47.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4227.JPG",
+        "latitude": 47.2131662,
+        "longitude": 5.38067839997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:06:49.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4230.JPG",
+        "latitude": 47.2133558,
+        "longitude": 5.3803688,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:06:55.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4231.JPG",
+        "latitude": 47.2134307999722,
+        "longitude": 5.380294,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:06:57.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4232.JPG",
+        "latitude": 47.2135099999722,
+        "longitude": 5.38024319997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:06:59.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4233.JPG",
+        "latitude": 47.2135889999722,
+        "longitude": 5.38020459997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:07:01.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4234.JPG",
+        "latitude": 47.2136696999722,
+        "longitude": 5.3801731,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:07:03.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4235.JPG",
+        "latitude": 47.2137479,
+        "longitude": 5.38014589997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:07:05.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4236.JPG",
+        "latitude": 47.2138247,
+        "longitude": 5.3801205,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:07:07.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4237.JPG",
+        "latitude": 47.2139037999722,
+        "longitude": 5.3800952,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:07:09.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4240.JPG",
+        "latitude": 47.2141372999722,
+        "longitude": 5.3800295,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:07:15.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4241.JPG",
+        "latitude": 47.2142142,
+        "longitude": 5.38000879997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:07:17.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4242.JPG",
+        "latitude": 47.2142930999722,
+        "longitude": 5.3799878,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:07:19.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4243.JPG",
+        "latitude": 47.2143694,
+        "longitude": 5.37996579997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:07:21.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4244.JPG",
+        "latitude": 47.2144468999722,
+        "longitude": 5.3799431,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:07:23.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4245.JPG",
+        "latitude": 47.2145239,
+        "longitude": 5.37991289997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:07:25.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4246.JPG",
+        "latitude": 47.2145993,
+        "longitude": 5.3798779,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:07:27.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4247.JPG",
+        "latitude": 47.2146753999722,
+        "longitude": 5.37984539997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:07:29.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4250.JPG",
+        "latitude": 47.2149131999722,
+        "longitude": 5.379775,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:07:35.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4251.JPG",
+        "latitude": 47.2149914,
+        "longitude": 5.3797642,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:07:37.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4252.JPG",
+        "latitude": 47.2150693,
+        "longitude": 5.3797534,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:07:39.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4253.JPG",
+        "latitude": 47.2151505,
+        "longitude": 5.37974379997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:07:41.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4254.JPG",
+        "latitude": 47.2152280999722,
+        "longitude": 5.37973489997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:07:43.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4255.JPG",
+        "latitude": 47.2153064,
+        "longitude": 5.37972859997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:07:45.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4256.JPG",
+        "latitude": 47.2153813999722,
+        "longitude": 5.37973009997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:07:47.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4257.JPG",
+        "latitude": 47.2154614,
+        "longitude": 5.37973609997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:07:49.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4268.JPG",
+        "latitude": 47.2162936,
+        "longitude": 5.38008709997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:08:11.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4269.JPG",
+        "latitude": 47.2163680999722,
+        "longitude": 5.380118,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:08:13.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4278.JPG",
+        "latitude": 47.2170642,
+        "longitude": 5.3803805,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:08:31.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4279.JPG",
+        "latitude": 47.2171444,
+        "longitude": 5.38040559997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:08:33.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4280.JPG",
+        "latitude": 47.2172217999722,
+        "longitude": 5.3804353,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:08:35.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4281.JPG",
+        "latitude": 47.2172983999722,
+        "longitude": 5.3804698,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:08:37.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4282.JPG",
+        "latitude": 47.2173742,
+        "longitude": 5.38050949997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:08:39.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4283.JPG",
+        "latitude": 47.2174477,
+        "longitude": 5.38055129997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:08:41.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4284.JPG",
+        "latitude": 47.2175218,
+        "longitude": 5.38059829997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:08:43.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4285.JPG",
+        "latitude": 47.2175932,
+        "longitude": 5.38064729997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:08:45.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4286.JPG",
+        "latitude": 47.2176649999722,
+        "longitude": 5.38069349997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:08:47.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4287.JPG",
+        "latitude": 47.2177379999722,
+        "longitude": 5.3807453,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:08:49.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4290.JPG",
+        "latitude": 47.2179507999722,
+        "longitude": 5.38089059997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:08:55.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4291.JPG",
+        "latitude": 47.2180198,
+        "longitude": 5.38093769997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:08:57.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4292.JPG",
+        "latitude": 47.2180897,
+        "longitude": 5.3809876,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:08:59.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4293.JPG",
+        "latitude": 47.2181545999722,
+        "longitude": 5.3810433,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:09:01.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4294.JPG",
+        "latitude": 47.2182197999722,
+        "longitude": 5.3811052,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:09:03.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4295.JPG",
+        "latitude": 47.2182804999722,
+        "longitude": 5.38117119997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:09:05.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4296.JPG",
+        "latitude": 47.2183404999722,
+        "longitude": 5.3812353,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:09:07.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4297.JPG",
+        "latitude": 47.2184024,
+        "longitude": 5.3812993,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:09:09.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4308.JPG",
+        "latitude": 47.2191308,
+        "longitude": 5.3819656,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:09:31.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4309.JPG",
+        "latitude": 47.2191923,
+        "longitude": 5.38204049997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:09:33.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4318.JPG",
+        "latitude": 47.2197038999722,
+        "longitude": 5.3827341,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:09:51.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4319.JPG",
+        "latitude": 47.2197537999722,
+        "longitude": 5.3828193,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:09:53.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4320.JPG",
+        "latitude": 47.2198016999722,
+        "longitude": 5.38291029997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:09:55.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4321.JPG",
+        "latitude": 47.2198458,
+        "longitude": 5.38300239997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:09:57.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4322.JPG",
+        "latitude": 47.2198889,
+        "longitude": 5.3830996,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:09:59.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4323.JPG",
+        "latitude": 47.2199276999722,
+        "longitude": 5.3831964,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:10:01.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4324.JPG",
+        "latitude": 47.2199653999722,
+        "longitude": 5.38329949997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:10:03.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4325.JPG",
+        "latitude": 47.2199972,
+        "longitude": 5.38340279997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:10:05.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4326.JPG",
+        "latitude": 47.2200251,
+        "longitude": 5.383509,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:10:07.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4327.JPG",
+        "latitude": 47.2200507,
+        "longitude": 5.38361849997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:10:09.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4330.JPG",
+        "latitude": 47.2201331999722,
+        "longitude": 5.3839388,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:10:15.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4331.JPG",
+        "latitude": 47.2201601,
+        "longitude": 5.3840474,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:10:17.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4332.JPG",
+        "latitude": 47.2201868,
+        "longitude": 5.38415529997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:10:19.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4333.JPG",
+        "latitude": 47.220216,
+        "longitude": 5.38426019997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:10:21.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4334.JPG",
+        "latitude": 47.2202472999722,
+        "longitude": 5.38436619997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:10:23.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4335.JPG",
+        "latitude": 47.2202776999722,
+        "longitude": 5.38447109997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:10:25.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4336.JPG",
+        "latitude": 47.2203025999722,
+        "longitude": 5.38457339997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:10:27.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4337.JPG",
+        "latitude": 47.2203231,
+        "longitude": 5.3846784,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:10:29.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4340.JPG",
+        "latitude": 47.2203456,
+        "longitude": 5.3850137,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:10:35.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4341.JPG",
+        "latitude": 47.2203428999722,
+        "longitude": 5.3851331,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:10:37.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4342.JPG",
+        "latitude": 47.2203407,
+        "longitude": 5.38524919997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:10:39.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4343.JPG",
+        "latitude": 47.2203372,
+        "longitude": 5.3853644,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:10:41.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4344.JPG",
+        "latitude": 47.2203343999722,
+        "longitude": 5.38548039997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:10:43.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4345.JPG",
+        "latitude": 47.2203322,
+        "longitude": 5.38559889997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:10:45.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4346.JPG",
+        "latitude": 47.2203299,
+        "longitude": 5.3857147,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:10:47.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4347.JPG",
+        "latitude": 47.2203269999722,
+        "longitude": 5.38582949997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:10:49.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4350.JPG",
+        "latitude": 47.2203177999722,
+        "longitude": 5.38616999997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:10:55.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4351.JPG",
+        "latitude": 47.2203135,
+        "longitude": 5.38628019997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:10:57.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4352.JPG",
+        "latitude": 47.2203075999722,
+        "longitude": 5.3863918,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:10:59.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4353.JPG",
+        "latitude": 47.2203007999722,
+        "longitude": 5.3865002,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:11:01.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4354.JPG",
+        "latitude": 47.2202938,
+        "longitude": 5.3866084,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:11:03.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4355.JPG",
+        "latitude": 47.2202842,
+        "longitude": 5.38671919997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:11:05.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4356.JPG",
+        "latitude": 47.2202730999722,
+        "longitude": 5.38682739997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:11:07.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4357.JPG",
+        "latitude": 47.2202588999722,
+        "longitude": 5.3869353,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:11:09.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4368.JPG",
+        "latitude": 47.2200288,
+        "longitude": 5.38797339997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:11:31.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4369.JPG",
+        "latitude": 47.2200051,
+        "longitude": 5.3880549,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:11:33.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4378.JPG",
+        "latitude": 47.2197206,
+        "longitude": 5.3887089,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:11:51.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4379.JPG",
+        "latitude": 47.2196824,
+        "longitude": 5.3887745,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:11:53.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4380.JPG",
+        "latitude": 47.2196428,
+        "longitude": 5.38883989997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:11:55.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4381.JPG",
+        "latitude": 47.2196027,
+        "longitude": 5.3889025,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:11:57.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4382.JPG",
+        "latitude": 47.2195608999722,
+        "longitude": 5.388968,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:11:59.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4383.JPG",
+        "latitude": 47.2195188,
+        "longitude": 5.3890333,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:12:01.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4384.JPG",
+        "latitude": 47.2194761,
+        "longitude": 5.38909679997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:12:03.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4385.JPG",
+        "latitude": 47.2194318999722,
+        "longitude": 5.3891532,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:12:05.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4386.JPG",
+        "latitude": 47.2193855,
+        "longitude": 5.3892077,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:12:07.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4387.JPG",
+        "latitude": 47.2193345,
+        "longitude": 5.3892666,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:12:09.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4390.JPG",
+        "latitude": 47.219172,
+        "longitude": 5.38944199997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:12:15.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4391.JPG",
+        "latitude": 47.219115,
+        "longitude": 5.3894957,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:12:17.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4392.JPG",
+        "latitude": 47.2190578,
+        "longitude": 5.38954649997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:12:19.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4393.JPG",
+        "latitude": 47.2190001,
+        "longitude": 5.38959649997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:12:21.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4394.JPG",
+        "latitude": 47.2189418999722,
+        "longitude": 5.38964649997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:12:23.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4395.JPG",
+        "latitude": 47.2188818999722,
+        "longitude": 5.38969849997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:12:25.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4396.JPG",
+        "latitude": 47.218823,
+        "longitude": 5.3897468,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:12:27.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4397.JPG",
+        "latitude": 47.2187635,
+        "longitude": 5.38979159997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:12:29.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4408.JPG",
+        "latitude": 47.2185930999722,
+        "longitude": 5.38991229997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:12:51.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4409.JPG",
+        "latitude": 47.2185958999722,
+        "longitude": 5.38991509997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:12:53.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4418.JPG",
+        "latitude": 47.2182819,
+        "longitude": 5.39013809997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:13:11.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4419.JPG",
+        "latitude": 47.2182316999722,
+        "longitude": 5.3901757,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:13:13.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4420.JPG",
+        "latitude": 47.2181753999722,
+        "longitude": 5.3902159,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:13:15.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4421.JPG",
+        "latitude": 47.2181189,
+        "longitude": 5.39025239997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:13:17.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4422.JPG",
+        "latitude": 47.2180588,
+        "longitude": 5.39029359997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:13:19.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4423.JPG",
+        "latitude": 47.2179986,
+        "longitude": 5.3903369,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:13:21.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4424.JPG",
+        "latitude": 47.2179367999722,
+        "longitude": 5.39038299997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:13:23.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4425.JPG",
+        "latitude": 47.2178708,
+        "longitude": 5.3904299,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:13:25.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4426.JPG",
+        "latitude": 47.2178077,
+        "longitude": 5.3904807,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:13:27.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4427.JPG",
+        "latitude": 47.2177392999722,
+        "longitude": 5.39054009997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:13:29.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4430.JPG",
+        "latitude": 47.2174989,
+        "longitude": 5.39074899997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:13:35.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4431.JPG",
+        "latitude": 47.2174106,
+        "longitude": 5.3908271,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:13:37.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4432.JPG",
+        "latitude": 47.2173249,
+        "longitude": 5.3909088,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:13:39.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4433.JPG",
+        "latitude": 47.217244,
+        "longitude": 5.39099069997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:13:41.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4434.JPG",
+        "latitude": 47.2171623999722,
+        "longitude": 5.391083,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:13:43.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4435.JPG",
+        "latitude": 47.2170879999722,
+        "longitude": 5.39117719997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:13:45.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4436.JPG",
+        "latitude": 47.2170196,
+        "longitude": 5.3912746,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:13:47.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4437.JPG",
+        "latitude": 47.2169513999722,
+        "longitude": 5.39137489997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:13:49.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4440.JPG",
+        "latitude": 47.2167772999722,
+        "longitude": 5.3916548,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:13:55.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4441.JPG",
+        "latitude": 47.2167225999722,
+        "longitude": 5.3917478,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:13:57.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4442.JPG",
+        "latitude": 47.2166696999722,
+        "longitude": 5.39184709997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:13:59.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4443.JPG",
+        "latitude": 47.2166209,
+        "longitude": 5.39194529997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:14:01.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4444.JPG",
+        "latitude": 47.2165707999722,
+        "longitude": 5.39204469997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:14:03.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4445.JPG",
+        "latitude": 47.216521,
+        "longitude": 5.39214459997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:14:05.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4446.JPG",
+        "latitude": 47.216473,
+        "longitude": 5.39224079997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:14:07.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4447.JPG",
+        "latitude": 47.2164266999722,
+        "longitude": 5.3923344,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:14:09.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4450.JPG",
+        "latitude": 47.2162942,
+        "longitude": 5.39264119997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:14:15.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4451.JPG",
+        "latitude": 47.2162525,
+        "longitude": 5.39274689997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:14:17.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4452.JPG",
+        "latitude": 47.2162142,
+        "longitude": 5.3928466,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:14:19.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4453.JPG",
+        "latitude": 47.216177,
+        "longitude": 5.3929513,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:14:21.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4454.JPG",
+        "latitude": 47.2161395999722,
+        "longitude": 5.3930587,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:14:23.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4455.JPG",
+        "latitude": 47.2161023999722,
+        "longitude": 5.3931639,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:14:25.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4456.JPG",
+        "latitude": 47.2160642999722,
+        "longitude": 5.39327079997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:14:27.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4457.JPG",
+        "latitude": 47.2160312999722,
+        "longitude": 5.39337839997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:14:29.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4468.JPG",
+        "latitude": 47.2157821999722,
+        "longitude": 5.39462499997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:14:51.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4469.JPG",
+        "latitude": 47.2157673999722,
+        "longitude": 5.3947421,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:14:53.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4478.JPG",
+        "latitude": 47.2156874,
+        "longitude": 5.3958091,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:15:11.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4479.JPG",
+        "latitude": 47.2156889,
+        "longitude": 5.39593279997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:15:13.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4480.JPG",
+        "latitude": 47.2156949,
+        "longitude": 5.3960552,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:15:15.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4481.JPG",
+        "latitude": 47.2157034,
+        "longitude": 5.3961749,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:15:17.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4482.JPG",
+        "latitude": 47.2157146999722,
+        "longitude": 5.3962947,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:15:19.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4483.JPG",
+        "latitude": 47.2157266,
+        "longitude": 5.396416,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:15:21.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4484.JPG",
+        "latitude": 47.2157387999722,
+        "longitude": 5.39654379997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:15:23.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4485.JPG",
+        "latitude": 47.2157527999722,
+        "longitude": 5.3966637,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:15:25.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4486.JPG",
+        "latitude": 47.2157701,
+        "longitude": 5.3967887,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:15:27.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4487.JPG",
+        "latitude": 47.2157866,
+        "longitude": 5.39690699997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:15:29.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4490.JPG",
+        "latitude": 47.2158323,
+        "longitude": 5.3972711,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:15:35.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4491.JPG",
+        "latitude": 47.2158495999722,
+        "longitude": 5.3973911,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:15:37.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4492.JPG",
+        "latitude": 47.2158669,
+        "longitude": 5.3975073,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:15:39.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4493.JPG",
+        "latitude": 47.2158841999722,
+        "longitude": 5.3976262,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:15:41.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4494.JPG",
+        "latitude": 47.2159011,
+        "longitude": 5.39773719997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:15:43.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4495.JPG",
+        "latitude": 47.2159203,
+        "longitude": 5.39785459997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:15:45.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4496.JPG",
+        "latitude": 47.2159404,
+        "longitude": 5.39796769997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:15:47.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4497.JPG",
+        "latitude": 47.2159619,
+        "longitude": 5.39808079997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:15:49.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4508.JPG",
+        "latitude": 47.2162703999722,
+        "longitude": 5.3993105,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:16:11.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4509.JPG",
+        "latitude": 47.2163073999722,
+        "longitude": 5.39942019997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:16:13.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4518.JPG",
+        "latitude": 47.2167268999722,
+        "longitude": 5.4003128,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:16:31.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4519.JPG",
+        "latitude": 47.2167780999722,
+        "longitude": 5.40040609997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:16:33.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4520.JPG",
+        "latitude": 47.2168327999722,
+        "longitude": 5.4005001,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:16:35.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4521.JPG",
+        "latitude": 47.2168897999722,
+        "longitude": 5.4005875,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:16:37.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4522.JPG",
+        "latitude": 47.2169492,
+        "longitude": 5.4006759,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:16:39.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4523.JPG",
+        "latitude": 47.2170071999722,
+        "longitude": 5.4007617,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:16:41.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4524.JPG",
+        "latitude": 47.2170665,
+        "longitude": 5.4008503,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:16:43.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4525.JPG",
+        "latitude": 47.2171231,
+        "longitude": 5.4009393,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:16:45.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4526.JPG",
+        "latitude": 47.2171802,
+        "longitude": 5.401027,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:16:47.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4527.JPG",
+        "latitude": 47.2172376999722,
+        "longitude": 5.40111469997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:16:49.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4530.JPG",
+        "latitude": 47.2174167,
+        "longitude": 5.4013732,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:16:55.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4531.JPG",
+        "latitude": 47.2174803999722,
+        "longitude": 5.4014585,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:16:57.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4532.JPG",
+        "latitude": 47.2175454999722,
+        "longitude": 5.4015376,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:16:59.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4533.JPG",
+        "latitude": 47.2176126,
+        "longitude": 5.4016143,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:17:01.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4534.JPG",
+        "latitude": 47.2176832999722,
+        "longitude": 5.40168949997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:17:03.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4535.JPG",
+        "latitude": 47.2177525999722,
+        "longitude": 5.4017637,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:17:05.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4536.JPG",
+        "latitude": 47.2178222,
+        "longitude": 5.4018379,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:17:07.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4537.JPG",
+        "latitude": 47.2178948999722,
+        "longitude": 5.40191189997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:17:09.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4540.JPG",
+        "latitude": 47.2181218999722,
+        "longitude": 5.40210309997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:17:15.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4541.JPG",
+        "latitude": 47.2181993,
+        "longitude": 5.40216269997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:17:17.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4542.JPG",
+        "latitude": 47.2182765,
+        "longitude": 5.4022214,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:17:19.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4543.JPG",
+        "latitude": 47.2183534999722,
+        "longitude": 5.40228009997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:17:21.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4544.JPG",
+        "latitude": 47.2184300999722,
+        "longitude": 5.4023386,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:17:23.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4545.JPG",
+        "latitude": 47.2185101999722,
+        "longitude": 5.40240109997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:17:25.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4546.JPG",
+        "latitude": 47.2185824,
+        "longitude": 5.4024583,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:17:27.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4547.JPG",
+        "latitude": 47.2186584,
+        "longitude": 5.40251489997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:17:29.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4550.JPG",
+        "latitude": 47.2188901,
+        "longitude": 5.4026635,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:17:35.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4551.JPG",
+        "latitude": 47.2189673,
+        "longitude": 5.402707,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:17:37.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4552.JPG",
+        "latitude": 47.2190464,
+        "longitude": 5.40275139997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:17:39.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4553.JPG",
+        "latitude": 47.2191246,
+        "longitude": 5.4027906,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:17:41.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4554.JPG",
+        "latitude": 47.2192057,
+        "longitude": 5.4028261,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:17:43.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4555.JPG",
+        "latitude": 47.21929,
+        "longitude": 5.40285369997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:17:45.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4556.JPG",
+        "latitude": 47.2193771,
+        "longitude": 5.4028726,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:17:47.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4557.JPG",
+        "latitude": 47.2194629999722,
+        "longitude": 5.4028872,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:17:49.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4568.JPG",
+        "latitude": 47.2203885999722,
+        "longitude": 5.40301879997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:18:11.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4569.JPG",
+        "latitude": 47.2204696,
+        "longitude": 5.40301,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:18:13.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4578.JPG",
+        "latitude": 47.2211964999722,
+        "longitude": 5.40284839997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:18:31.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4579.JPG",
+        "latitude": 47.2212814,
+        "longitude": 5.40282869997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:18:33.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4580.JPG",
+        "latitude": 47.2213627,
+        "longitude": 5.4028017,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:18:35.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4581.JPG",
+        "latitude": 47.2214397999722,
+        "longitude": 5.40276599997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:18:37.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4582.JPG",
+        "latitude": 47.2215176999722,
+        "longitude": 5.4027263,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:18:39.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4583.JPG",
+        "latitude": 47.2215966999722,
+        "longitude": 5.40268519997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:18:41.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4584.JPG",
+        "latitude": 47.2216746,
+        "longitude": 5.4026483,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:18:43.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4585.JPG",
+        "latitude": 47.2217537,
+        "longitude": 5.40261809997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:18:45.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4586.JPG",
+        "latitude": 47.2218361999722,
+        "longitude": 5.40258999997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:18:47.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4587.JPG",
+        "latitude": 47.2219158999722,
+        "longitude": 5.40256369997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:18:49.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4590.JPG",
+        "latitude": 47.2221564999722,
+        "longitude": 5.40247749997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:18:55.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4591.JPG",
+        "latitude": 47.2222373,
+        "longitude": 5.4024504,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:18:57.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4592.JPG",
+        "latitude": 47.2223168,
+        "longitude": 5.4024226,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:18:59.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4593.JPG",
+        "latitude": 47.2223949999722,
+        "longitude": 5.40239509997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:19:01.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4594.JPG",
+        "latitude": 47.2224749,
+        "longitude": 5.4023709,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:19:03.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4595.JPG",
+        "latitude": 47.2225584999722,
+        "longitude": 5.4023494,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:19:05.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4596.JPG",
+        "latitude": 47.2226421,
+        "longitude": 5.4023282,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:19:07.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4597.JPG",
+        "latitude": 47.2227219,
+        "longitude": 5.40230099997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:19:09.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4608.JPG",
+        "latitude": 47.2236247,
+        "longitude": 5.40202779997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:19:31.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4609.JPG",
+        "latitude": 47.2237068,
+        "longitude": 5.4019972,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:19:33.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4618.JPG",
+        "latitude": 47.2244291,
+        "longitude": 5.40170729997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:19:51.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4619.JPG",
+        "latitude": 47.2245113,
+        "longitude": 5.4016783,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:19:53.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4620.JPG",
+        "latitude": 47.2245935999722,
+        "longitude": 5.40165999997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:19:55.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4621.JPG",
+        "latitude": 47.2246767,
+        "longitude": 5.40164839997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:19:57.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4622.JPG",
+        "latitude": 47.2247636999722,
+        "longitude": 5.40164229997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:19:59.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4623.JPG",
+        "latitude": 47.2248482999722,
+        "longitude": 5.40163209997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:20:01.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4624.JPG",
+        "latitude": 47.2249327999722,
+        "longitude": 5.4016155,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:20:03.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4625.JPG",
+        "latitude": 47.2250196999722,
+        "longitude": 5.40159989997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:20:05.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4626.JPG",
+        "latitude": 47.2251041999722,
+        "longitude": 5.4015911,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:20:07.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4627.JPG",
+        "latitude": 47.2251874999722,
+        "longitude": 5.40158659997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:20:09.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4630.JPG",
+        "latitude": 47.2253918999722,
+        "longitude": 5.40160459997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:20:15.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4631.JPG",
+        "latitude": 47.2254488,
+        "longitude": 5.4016177,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:20:17.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4632.JPG",
+        "latitude": 47.2255072,
+        "longitude": 5.4016333,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:20:19.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4633.JPG",
+        "latitude": 47.2255638,
+        "longitude": 5.40165059997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:20:21.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4634.JPG",
+        "latitude": 47.2256180999722,
+        "longitude": 5.40167139997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:20:23.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4635.JPG",
+        "latitude": 47.2256740999722,
+        "longitude": 5.4016956,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:20:25.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4636.JPG",
+        "latitude": 47.2257293999722,
+        "longitude": 5.4017197,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:20:27.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4637.JPG",
+        "latitude": 47.2257877999722,
+        "longitude": 5.40174169997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:20:29.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4640.JPG",
+        "latitude": 47.2259754999722,
+        "longitude": 5.4018128,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:20:35.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4641.JPG",
+        "latitude": 47.2260392999722,
+        "longitude": 5.4018363,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:20:37.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4642.JPG",
+        "latitude": 47.2261023,
+        "longitude": 5.4018563,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:20:39.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4643.JPG",
+        "latitude": 47.2261649,
+        "longitude": 5.40187419997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:20:41.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4644.JPG",
+        "latitude": 47.22623,
+        "longitude": 5.40189129997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:20:43.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4645.JPG",
+        "latitude": 47.2262936999722,
+        "longitude": 5.4019129,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:20:45.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4646.JPG",
+        "latitude": 47.2263578999722,
+        "longitude": 5.40193999997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:20:47.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4647.JPG",
+        "latitude": 47.2264201999722,
+        "longitude": 5.401969,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:20:49.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4650.JPG",
+        "latitude": 47.2266066999722,
+        "longitude": 5.40206919997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:20:55.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4651.JPG",
+        "latitude": 47.226669,
+        "longitude": 5.4021058,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:20:57.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4652.JPG",
+        "latitude": 47.2267324999722,
+        "longitude": 5.40214969997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:20:59.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4653.JPG",
+        "latitude": 47.2267964999722,
+        "longitude": 5.4021971,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:21:01.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4654.JPG",
+        "latitude": 47.2268602999722,
+        "longitude": 5.40225139997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:21:03.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4655.JPG",
+        "latitude": 47.2269294999722,
+        "longitude": 5.40231499997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:21:05.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4656.JPG",
+        "latitude": 47.2270042,
+        "longitude": 5.40238309997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:21:07.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4657.JPG",
+        "latitude": 47.2270846999722,
+        "longitude": 5.40245369997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:21:09.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4668.JPG",
+        "latitude": 47.2280866999722,
+        "longitude": 5.4028618,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:21:31.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4669.JPG",
+        "latitude": 47.2281747999722,
+        "longitude": 5.40288159997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:21:33.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4678.JPG",
+        "latitude": 47.2289882,
+        "longitude": 5.4029375,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:21:51.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4679.JPG",
+        "latitude": 47.2290739,
+        "longitude": 5.4029309,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:21:53.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4680.JPG",
+        "latitude": 47.2291603999722,
+        "longitude": 5.4029208,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:21:55.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4681.JPG",
+        "latitude": 47.2292430999722,
+        "longitude": 5.4029058,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:21:57.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4682.JPG",
+        "latitude": 47.2293279,
+        "longitude": 5.4028853,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:21:59.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4683.JPG",
+        "latitude": 47.2294096999722,
+        "longitude": 5.40286009997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:22:01.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4684.JPG",
+        "latitude": 47.2294930999722,
+        "longitude": 5.40283539997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:22:03.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4685.JPG",
+        "latitude": 47.2295800999722,
+        "longitude": 5.40281169997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:22:05.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4686.JPG",
+        "latitude": 47.2296643999722,
+        "longitude": 5.40279,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:22:07.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4687.JPG",
+        "latitude": 47.2297513999722,
+        "longitude": 5.4027732,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:22:09.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4690.JPG",
+        "latitude": 47.2300126,
+        "longitude": 5.4027529,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:22:15.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4691.JPG",
+        "latitude": 47.2301008999722,
+        "longitude": 5.4027539,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:22:17.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4692.JPG",
+        "latitude": 47.2301830999722,
+        "longitude": 5.40275529997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:22:19.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4693.JPG",
+        "latitude": 47.2302554999722,
+        "longitude": 5.40275469997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:22:21.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4694.JPG",
+        "latitude": 47.2303166,
+        "longitude": 5.4027526,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:22:23.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4695.JPG",
+        "latitude": 47.2303732999722,
+        "longitude": 5.40275169997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:22:25.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4696.JPG",
+        "latitude": 47.2304328,
+        "longitude": 5.40275,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:22:27.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4697.JPG",
+        "latitude": 47.2304884999722,
+        "longitude": 5.40274929997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:22:29.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4708.JPG",
+        "latitude": 47.2309940999722,
+        "longitude": 5.4028907,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:22:51.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4709.JPG",
+        "latitude": 47.2310329999722,
+        "longitude": 5.40290059997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:22:53.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4718.JPG",
+        "latitude": 47.2313523999722,
+        "longitude": 5.4029743,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:23:11.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4719.JPG",
+        "latitude": 47.2313863999722,
+        "longitude": 5.40297529997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:23:13.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4720.JPG",
+        "latitude": 47.2314189,
+        "longitude": 5.40297469997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:23:15.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4721.JPG",
+        "latitude": 47.2314529,
+        "longitude": 5.4029737,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:23:17.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4722.JPG",
+        "latitude": 47.2314863,
+        "longitude": 5.40297319997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:23:19.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4723.JPG",
+        "latitude": 47.2315176999722,
+        "longitude": 5.4029723,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:23:21.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4724.JPG",
+        "latitude": 47.2315517999722,
+        "longitude": 5.40296999997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:23:23.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4725.JPG",
+        "latitude": 47.2315834999722,
+        "longitude": 5.40296719997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:23:25.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4726.JPG",
+        "latitude": 47.2316167999722,
+        "longitude": 5.4029638,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:23:27.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4727.JPG",
+        "latitude": 47.2316468,
+        "longitude": 5.4029623,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:23:29.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4730.JPG",
+        "latitude": 47.2317261,
+        "longitude": 5.40296579997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:23:35.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4731.JPG",
+        "latitude": 47.2317467,
+        "longitude": 5.4029644,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:23:37.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4732.JPG",
+        "latitude": 47.2317663999722,
+        "longitude": 5.40296049997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:23:39.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4733.JPG",
+        "latitude": 47.2317857,
+        "longitude": 5.40295789997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:23:41.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4734.JPG",
+        "latitude": 47.2318031,
+        "longitude": 5.4029559,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:23:43.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4735.JPG",
+        "latitude": 47.2318163999722,
+        "longitude": 5.40295889997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:23:44.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4736.JPG",
+        "latitude": 47.2318281,
+        "longitude": 5.40296779997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:23:47.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4737.JPG",
+        "latitude": 47.2318374,
+        "longitude": 5.4029793,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:23:49.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4740.JPG",
+        "latitude": 47.2318508999722,
+        "longitude": 5.4030265,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:23:55.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4741.JPG",
+        "latitude": 47.2318525,
+        "longitude": 5.4030442,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:23:57.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4742.JPG",
+        "latitude": 47.2318532,
+        "longitude": 5.4030645,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:23:59.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAD4743.JPG",
+        "latitude": 47.231852,
+        "longitude": 5.40308239997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:24:01.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAE4744.JPG",
+        "latitude": 47.2319079,
+        "longitude": 5.4030636,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:35:13.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAE4745.JPG",
+        "latitude": 47.23192,
+        "longitude": 5.4030661,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:35:15.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAE4746.JPG",
+        "latitude": 47.2319321,
+        "longitude": 5.4030684,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:35:17.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAE4747.JPG",
+        "latitude": 47.231945,
+        "longitude": 5.40306939997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:35:19.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAE4750.JPG",
+        "latitude": 47.2319817999722,
+        "longitude": 5.40307959997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:35:25.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAE4751.JPG",
+        "latitude": 47.2319924,
+        "longitude": 5.4030817,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:35:27.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAE4752.JPG",
+        "latitude": 47.2320046,
+        "longitude": 5.40308529997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:35:29.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAE4753.JPG",
+        "latitude": 47.2320173999722,
+        "longitude": 5.40308469997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:35:31.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAE4754.JPG",
+        "latitude": 47.2320295,
+        "longitude": 5.4030874,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:35:33.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAE4755.JPG",
+        "latitude": 47.2320404999722,
+        "longitude": 5.40308689997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:35:35.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAE4756.JPG",
+        "latitude": 47.2320567,
+        "longitude": 5.403087,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:35:37.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAE4757.JPG",
+        "latitude": 47.2320761,
+        "longitude": 5.40309059997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:35:39.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAE4768.JPG",
+        "latitude": 47.2322579,
+        "longitude": 5.40312259997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:36:01.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAE4769.JPG",
+        "latitude": 47.2322695,
+        "longitude": 5.40312609997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:36:03.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4778.JPG",
+        "latitude": 47.2320623999722,
+        "longitude": 5.403094,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:44:32.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4779.JPG",
+        "latitude": 47.2320689,
+        "longitude": 5.40308969997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:44:34.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4780.JPG",
+        "latitude": 47.2320773,
+        "longitude": 5.40308589997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:44:36.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4781.JPG",
+        "latitude": 47.2320867999722,
+        "longitude": 5.4030839,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:44:38.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4782.JPG",
+        "latitude": 47.2320983999722,
+        "longitude": 5.40308329997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:44:40.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4783.JPG",
+        "latitude": 47.232112,
+        "longitude": 5.40308519997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:44:42.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4784.JPG",
+        "latitude": 47.2321272,
+        "longitude": 5.40308939997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:44:44.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4785.JPG",
+        "latitude": 47.2321433999722,
+        "longitude": 5.403093,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:44:46.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4786.JPG",
+        "latitude": 47.2321608999722,
+        "longitude": 5.40309849997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:44:48.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4787.JPG",
+        "latitude": 47.2321792999722,
+        "longitude": 5.4031025,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:44:50.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4790.JPG",
+        "latitude": 47.2322375999722,
+        "longitude": 5.40311849997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:44:56.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4791.JPG",
+        "latitude": 47.2322585,
+        "longitude": 5.4031216,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:44:58.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4792.JPG",
+        "latitude": 47.2322788,
+        "longitude": 5.4031266,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:45:00.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4793.JPG",
+        "latitude": 47.2322997999722,
+        "longitude": 5.40313179997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:45:02.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4794.JPG",
+        "latitude": 47.2323207,
+        "longitude": 5.4031374,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:45:04.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4795.JPG",
+        "latitude": 47.2323419,
+        "longitude": 5.40314139997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:45:06.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4796.JPG",
+        "latitude": 47.2323637,
+        "longitude": 5.40314409997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:45:08.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4797.JPG",
+        "latitude": 47.2323833,
+        "longitude": 5.40314669997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:45:10.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4800.JPG",
+        "latitude": 47.2324397,
+        "longitude": 5.4031468,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:45:16.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4801.JPG",
+        "latitude": 47.2324593,
+        "longitude": 5.403152,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:45:18.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4802.JPG",
+        "latitude": 47.2324800999722,
+        "longitude": 5.4031567,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:45:20.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4803.JPG",
+        "latitude": 47.2325006,
+        "longitude": 5.40316189997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:45:22.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4804.JPG",
+        "latitude": 47.2325208,
+        "longitude": 5.4031665,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:45:24.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4805.JPG",
+        "latitude": 47.2325415,
+        "longitude": 5.40317,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:45:26.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4806.JPG",
+        "latitude": 47.2325617999722,
+        "longitude": 5.4031728,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:45:28.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4807.JPG",
+        "latitude": 47.2325832,
+        "longitude": 5.4031732,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:45:30.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4810.JPG",
+        "latitude": 47.2326739,
+        "longitude": 5.4031754,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:45:36.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4811.JPG",
+        "latitude": 47.2327142999722,
+        "longitude": 5.4031779,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:45:38.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4812.JPG",
+        "latitude": 47.232759,
+        "longitude": 5.40318439997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:45:40.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4813.JPG",
+        "latitude": 47.2328021,
+        "longitude": 5.40319199997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:45:42.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4814.JPG",
+        "latitude": 47.2328445999722,
+        "longitude": 5.40319809997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:45:44.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4815.JPG",
+        "latitude": 47.2328879,
+        "longitude": 5.40320409997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:45:46.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4816.JPG",
+        "latitude": 47.2329368999722,
+        "longitude": 5.4032099,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:45:48.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4817.JPG",
+        "latitude": 47.2329865,
+        "longitude": 5.4032162,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:45:50.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4828.JPG",
+        "latitude": 47.2336244999722,
+        "longitude": 5.4032806,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:46:12.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4829.JPG",
+        "latitude": 47.2336887,
+        "longitude": 5.40328509997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:46:14.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4838.JPG",
+        "latitude": 47.2342772,
+        "longitude": 5.40334309997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:46:32.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4839.JPG",
+        "latitude": 47.2343436999722,
+        "longitude": 5.40334599997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:46:34.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4848.JPG",
+        "latitude": 47.2349344,
+        "longitude": 5.40340579997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:46:52.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4849.JPG",
+        "latitude": 47.2349979999722,
+        "longitude": 5.40342129997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:46:54.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4855.JPG",
+        "latitude": 47.2353808,
+        "longitude": 5.4034861,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:47:06.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4858.JPG",
+        "latitude": 47.2355864999722,
+        "longitude": 5.4035171,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:47:12.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4859.JPG",
+        "latitude": 47.235672,
+        "longitude": 5.40353429997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:47:14.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4860.JPG",
+        "latitude": 47.2357636999722,
+        "longitude": 5.4035503,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:47:16.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4861.JPG",
+        "latitude": 47.2358613,
+        "longitude": 5.40357009997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:47:18.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4862.JPG",
+        "latitude": 47.2359675,
+        "longitude": 5.4035916,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:47:20.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4863.JPG",
+        "latitude": 47.2360729999722,
+        "longitude": 5.4036084,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:47:22.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4864.JPG",
+        "latitude": 47.2361906,
+        "longitude": 5.4036216,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:47:24.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4865.JPG",
+        "latitude": 47.2362972999722,
+        "longitude": 5.4036298,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:47:26.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4866.JPG",
+        "latitude": 47.2364038999722,
+        "longitude": 5.40363819997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:47:28.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4867.JPG",
+        "latitude": 47.2364999999722,
+        "longitude": 5.4036492,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:47:30.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4870.JPG",
+        "latitude": 47.2367339999722,
+        "longitude": 5.4036901,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:47:36.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4871.JPG",
+        "latitude": 47.2367959999722,
+        "longitude": 5.40370249997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:47:38.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4872.JPG",
+        "latitude": 47.2368499999722,
+        "longitude": 5.40371209997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:47:40.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4873.JPG",
+        "latitude": 47.2369039,
+        "longitude": 5.40372179997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:47:42.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4874.JPG",
+        "latitude": 47.2369612,
+        "longitude": 5.40372749997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:47:44.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4875.JPG",
+        "latitude": 47.2370236,
+        "longitude": 5.40373299997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:47:46.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4876.JPG",
+        "latitude": 47.2370967,
+        "longitude": 5.4037432,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:47:48.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4877.JPG",
+        "latitude": 47.2371778999722,
+        "longitude": 5.4037499,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:47:50.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4882.JPG",
+        "latitude": 47.2376592,
+        "longitude": 5.4038411,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:48:00.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4888.JPG",
+        "latitude": 47.2382423,
+        "longitude": 5.4039932,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:48:12.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4889.JPG",
+        "latitude": 47.2383284,
+        "longitude": 5.40402369997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:48:14.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4896.JPG",
+        "latitude": 47.2388651999722,
+        "longitude": 5.40422509997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:48:28.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4898.JPG",
+        "latitude": 47.2390023,
+        "longitude": 5.40428879997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:48:32.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4899.JPG",
+        "latitude": 47.2390698999722,
+        "longitude": 5.404321,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:48:34.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4900.JPG",
+        "latitude": 47.2391385,
+        "longitude": 5.4043554,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:48:36.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4901.JPG",
+        "latitude": 47.2392044999722,
+        "longitude": 5.40438959997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:48:38.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4902.JPG",
+        "latitude": 47.2392705999722,
+        "longitude": 5.4044216,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:48:40.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4903.JPG",
+        "latitude": 47.2393402,
+        "longitude": 5.40444749997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:48:42.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4904.JPG",
+        "latitude": 47.2394071,
+        "longitude": 5.4044761,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:48:44.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4905.JPG",
+        "latitude": 47.2394759,
+        "longitude": 5.4045085,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:48:46.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4906.JPG",
+        "latitude": 47.2395437999722,
+        "longitude": 5.40454499997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:48:48.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4907.JPG",
+        "latitude": 47.2396097999722,
+        "longitude": 5.4045823,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:48:50.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4910.JPG",
+        "latitude": 47.2398102,
+        "longitude": 5.40468909997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:48:56.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4911.JPG",
+        "latitude": 47.2398767999722,
+        "longitude": 5.40472489997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:48:58.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4912.JPG",
+        "latitude": 47.2399388999722,
+        "longitude": 5.4047612,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:49:00.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4913.JPG",
+        "latitude": 47.2400023,
+        "longitude": 5.4048027,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:49:02.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4914.JPG",
+        "latitude": 47.2400633999722,
+        "longitude": 5.40484279997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:49:04.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4915.JPG",
+        "latitude": 47.2401258,
+        "longitude": 5.40488709997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:49:06.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4916.JPG",
+        "latitude": 47.2401862999722,
+        "longitude": 5.40493149997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:49:08.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4917.JPG",
+        "latitude": 47.2402475,
+        "longitude": 5.4049724,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:49:10.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4928.JPG",
+        "latitude": 47.2409530999722,
+        "longitude": 5.40537539997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:49:32.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4929.JPG",
+        "latitude": 47.2410172,
+        "longitude": 5.40541069997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:49:34.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4938.JPG",
+        "latitude": 47.2415931,
+        "longitude": 5.4057589,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:49:52.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4939.JPG",
+        "latitude": 47.2416594999722,
+        "longitude": 5.4057966,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:49:54.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4948.JPG",
+        "latitude": 47.2422471,
+        "longitude": 5.4061224,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:50:12.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4949.JPG",
+        "latitude": 47.2423147,
+        "longitude": 5.4061607,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:50:14.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4958.JPG",
+        "latitude": 47.2429085999722,
+        "longitude": 5.4065069,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:50:32.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4959.JPG",
+        "latitude": 47.2429751,
+        "longitude": 5.4065504,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:50:34.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4960.JPG",
+        "latitude": 47.2430394,
+        "longitude": 5.40659159997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:50:36.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4961.JPG",
+        "latitude": 47.2431048999722,
+        "longitude": 5.4066333,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:50:38.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4962.JPG",
+        "latitude": 47.2431715,
+        "longitude": 5.40667499997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:50:40.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4963.JPG",
+        "latitude": 47.2432365,
+        "longitude": 5.40671459997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:50:42.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4964.JPG",
+        "latitude": 47.2433036999722,
+        "longitude": 5.4067572,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:50:44.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4965.JPG",
+        "latitude": 47.2433685999722,
+        "longitude": 5.4067973,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:50:46.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4966.JPG",
+        "latitude": 47.2434335,
+        "longitude": 5.40683679997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:50:48.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4967.JPG",
+        "latitude": 47.2434969999722,
+        "longitude": 5.4068762,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:50:50.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4970.JPG",
+        "latitude": 47.2436405999722,
+        "longitude": 5.40696099997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:50:56.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4971.JPG",
+        "latitude": 47.2436865,
+        "longitude": 5.4069852,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:50:58.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4972.JPG",
+        "latitude": 47.2437339,
+        "longitude": 5.4070105,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:51:00.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4973.JPG",
+        "latitude": 47.2437741999722,
+        "longitude": 5.40703799997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:51:02.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4974.JPG",
+        "latitude": 47.2438086,
+        "longitude": 5.4070676,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:51:04.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4975.JPG",
+        "latitude": 47.24385,
+        "longitude": 5.40708799997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:51:06.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4976.JPG",
+        "latitude": 47.2438958999722,
+        "longitude": 5.4070913,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:51:08.000Z"
+    },
+    {
+        "cameraHeight": 2.45,
+        "image": "GSAF4977.JPG",
+        "latitude": 47.2439405,
+        "longitude": 5.40708099997222,
+        "orientation": 0,
+        "timeStamp": "2022-10-11T09:51:10.000Z"
+    }
+]
